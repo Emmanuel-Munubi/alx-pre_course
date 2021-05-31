@@ -1,2 +1,3 @@
-\markdown text
-this is a small markdown text
+#Markdown
+## This is my updated markdown
+I love it
